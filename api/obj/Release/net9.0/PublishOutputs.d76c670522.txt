@@ -1,0 +1,9 @@
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 4\newapi\api\bin\Release\net9.0\publish\api.exe
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 4\newapi\api\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 4\newapi\api\bin\Release\net9.0\publish\appsettings.json
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 4\newapi\api\bin\Release\net9.0\publish\api.dll
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 4\newapi\api\bin\Release\net9.0\publish\api.deps.json
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 4\newapi\api\bin\Release\net9.0\publish\api.runtimeconfig.json
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 4\newapi\api\bin\Release\net9.0\publish\api.pdb
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 4\newapi\api\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 4\newapi\api\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
