@@ -12,7 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddCors(options =>
 {
    options.AddPolicy("DemoDevClient", policy => {
-        policy.WithOrigins("http://127.0.0.1:5500")
+        policy.WithOrigins("http://127.0.0.1:5500", "https://thankful-bush-0f668ff1e.2.azurestaticapps.net")
         .AllowAnyHeader()
         .AllowAnyMethod();
     });

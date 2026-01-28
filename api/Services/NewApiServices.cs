@@ -13,7 +13,7 @@ namespace api.Services
 
             string[] playerOption = ["rock", "paper", "scissors"];
 
-            return playerOption[cpuChoice.Next(0,5)];
+            return playerOption[cpuChoice.Next(0,3)];
         }
     }
 }
